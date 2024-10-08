@@ -1,5 +1,5 @@
 import BannerBG from "../Banner/BannerBG";
-import PopularCourses from "../PopulerCourses/PopularCourses";
+// import PopularCourses from "../PopulerCourses/PopularCourses";
 import SectionOne from "../SectionOne/SectionOne";
 import SectionTwo from "../SectionTwo/SectionTwo";
 import Testimonials from "../Testimonial/Testimonial";
@@ -15,7 +15,7 @@ const Home = () => {
             <SectionOne></SectionOne>
             <SectionTwo></SectionTwo>
             <SectiionThree></SectiionThree>
-            <PopularCourses></PopularCourses>
+            {/* <PopularCourses></PopularCourses> */}
             <Testimonials></Testimonials>
             <Work></Work>
         </div>
